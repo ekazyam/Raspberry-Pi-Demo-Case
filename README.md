@@ -5,9 +5,9 @@ This is a demonstration case of raspberry pie.
 ![demo case image](./Case.png "demo case image.")
 
 ##How to use
-Use the insert nut to stop the screw.
+Use the insert nut for fixing the Raspberry Pi and fixing the lid.
 
-Used to fix case and raspberry pi.
+A total of 8 screw nuts are required.
 
 ![size image](http://www.hirosugi-net.co.jp/img/category/4/14131314-4.gif)
 
