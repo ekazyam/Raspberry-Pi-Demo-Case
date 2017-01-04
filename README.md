@@ -11,15 +11,9 @@ Used to fix case and raspberry pi.
 
 ![size image](http://www.hirosugi-net.co.jp/img/category/4/14131314-4.gif)
 
-M:2.6mm
-
-Pitch:0.45
-
-D1:3.5mm
-
-D2:3.8mm
-
-L:3mm
+|M|D1|D2|L|pitch|
+|:--:|:--:|:--:|:--:|:--:|
+|2.6mm|3.5mm|3.8mm|3mm|0.45mm|
 
 ###It is used to fix the DC jack.
 
